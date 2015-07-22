@@ -28,4 +28,4 @@ end else if (enable) begin
 end
 endmodule
 
-
+//5 bits counter
