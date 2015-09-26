@@ -28,4 +28,10 @@ end else if (enable) begin
 end
 endmodule
 
+<<<<<<< HEAD
 
+=======
+//5 bits counter
+
+// Hola mundo
+>>>>>>> origin/edjose182-patch-1
